@@ -1,6 +1,8 @@
 # callbackhunter-com-wp
 CallBackHunter for WordPress
 
+Страница плагина и демо http://im4b.ru/product/plagin-ustanovki-callbackhunter-na-sajt-wordpress/
+
 # Порядок установки
 
 1. Скачиваем и активируем плагин в WordPress
