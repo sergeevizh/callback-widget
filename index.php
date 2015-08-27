@@ -5,7 +5,7 @@ Plugin URI: https://github.com/systemo-biz/callbackhunter-com-wp
 Description: Integrate CallBackHunter in WordPress
 Author: Systemo
 Author URI: http://systemo.biz/
-Version: 20150826
+Version: 20150827
 */
 
 add_action( 'wp_footer', $function_to_add = 'wp_footer_add_callbackhunter', $priority = 10);
