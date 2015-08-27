@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: CallBackHunter for WordPress
+Plugin Name: CallBack Widget for WordPress
 Plugin URI: https://github.com/systemo-biz/callbackhunter-com-wp
 Description: Integrate CallBackHunter in WordPress
 Author: Systemo
@@ -53,7 +53,9 @@ function cbh_script_section_callback(){
 
 // Add settings link to wordpress plugin page
 function add_settings_link_to_cbh_script_plugins($links) {
-  $settings_link = '<a href="/wp-admin/options-discussion.php#cbh-option">Настройки</a>';
+	
+
+  $settings_link = '<a href="' . admin_url( 'options-discussion.php#cbh-option') .'">Настройки</a>';
   array_unshift($links, $settings_link);
   return $links;
 }
