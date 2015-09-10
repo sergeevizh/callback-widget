@@ -7,7 +7,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Integrate CallBackHunter in WordPress
+Integrate <a href="http://callbackhunter.com/systemo" target="_blank">CallBackHunter.com</a> in WordPress
 
 == Description ==
 
@@ -28,6 +28,8 @@ e.g.
 
 == Screenshots ==
 
+1. /inc/screenshot-1.png - shows plugin settings.
+2. /inc/screenshot-2.png - shows one of buttons positions.
 
 
 == Changelog ==
