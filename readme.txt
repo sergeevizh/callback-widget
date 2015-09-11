@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: casepress
-Tags: callbackhunter, callback, feedback, contact, form, contact form, chat, livechat
+Tags: callbackhunter, callback, feedback, contact, form, contact form, chat, livechat, marketing, split
 Requires at least: 3.0.1
 Tested up to: 4.3
 Stable tag: 4.3
@@ -18,7 +18,7 @@ This is the new standard of communication between you and your clients. It's har
 
 Already 57477 websites receive 125% more payed bills and calls. 
 
-Get $30 on balanse and try it today (<a href="http://callbackhunter.us/systemo" target="_blank">link for bonus</a>)
+Will receive a bonus of $30 to the balance and try now (<a href="http://callbackhunter.us/systemo" target="_blank">link for bonus</a>)
 
 = Video =
 
