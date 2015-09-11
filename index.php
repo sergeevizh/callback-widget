@@ -5,7 +5,7 @@ Plugin URI: https://github.com/systemo-biz/callbackhunter-com-wp
 Description: Integrate CallBackHunter in WordPress
 Author: Systemo
 Author URI: http://systemo.biz/
-Version: 20150910
+Version: 20150911
 */
 
 add_action( 'wp_footer', $function_to_add = 'wp_footer_add_callbackhunter', $priority = 10);
@@ -45,15 +45,15 @@ function cbh_script_field_callback() {
 
 function cbh_script_section_callback(){
   ?>
-  <p id="cbh-option">Получите 30$ на счет при регистрации CallBackHunter по ссылке <a href="http://callbackhunter.com/systemo">http://callbackhunter.com/systemo</a></p>
-  <p>Скрипт для вставки в поле, можно получить на сайте CallBackHunter в личном кабинете (раздел Виджеты) <a href="https://callbackhunter.com/cabinet/hunters/">https://callbackhunter.com/cabinet/hunters/</a></p>
+  <p id="cbh-option">Get 30$ on balanse при регистрации CallBackHunter по ссылке <a href="http://callbackhunter.us/systemo">http://callbackhunter.com/systemo</a></p>
+  <p>Скрипт для вставки в поле, можно получить на сайте CallBackHunter в личном кабинете (раздел Виджеты)<a href="https://callbackhunter.us/cabinet/hunters/">https://callbackhunter.com/cabinet/hunters/</a></p>
   <?php
 }
 
 
 // Add settings link to wordpress plugin page
 function add_settings_link_to_cbh_script_plugins($links) {
-	
+
 
   $settings_link = '<a href="' . admin_url( 'options-discussion.php#cbh-option') .'">Настройки</a>';
   array_unshift($links, $settings_link);
