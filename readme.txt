@@ -11,7 +11,7 @@ Integrate CallBack widget <a href="http://callbackhunter.us/systemo" target="_bl
 
 == Description ==
 
-Integrate CallBack widget <a href="http://callbackhunter.com/systemo" target="_blank">CallBackHunter.com</a> on site WordPress
+Integrate CallBack widget <a href="http://callbackhunter.us/systemo" target="_blank">callbackhunter.us</a> on site WordPress
 
 == Installation ==
 
