@@ -18,27 +18,32 @@ This is the new standard of communication between you and your clients. It's har
 
 Already 57477 websites receive 125% more payed bills and calls. 
 
-<h1>Features</h1>
-<h2>The widget analyzes the visitor’s behavior and doesn’t disturb your actual clients.</h1>
+Get $30 on balanse and try it today (<a href="http://callbackhunter.us/systemo" target="_blank">link for bonus</a>)
+
+= Video =
+
+http://www.youtube.com/watch?t=1&v=7_jpOTP_s2s
+
+= Features =
+== The widget analyzes the visitor’s behavior and doesn’t disturb your actual clients ==
+
 The service is trained on big data. It analyzes mouse movement and acceleration, scrolling, time, and pages looked through.
 
 It can separate those who are visiting your site for the first time from those who visit it daily.
 
 The service does not bother those 1-2% of visitors that have already placed an order on your site, bought an item or clicked the "Contact Us" section because they are already involved customers
 
-<h2>The service doesn’t also disturb visitors that show low involvement in your site</h2>
+== The service doesn’t also disturb visitors that show low involvement in your site ==
 These are 75% of visitors to your site. They are occasional guests who quickly scroll through the site, almost do not read the texts and leave quickly.
 
 Why should you keep them? They are no use to sales so why calling them. They would just waste your time and overload the sales managers.
-<h2>But once the service detects a ready-to-buy visitor, it prepares to jump</h2>
+
+== But once the service detects a ready-to-buy visitor, it prepares to jump ==
 These are 23% of visitors. They visited your site and stayed there for a while going through it attentively. They read the contents of your site, scrolled through them slowly, and visited various sections of your site.
 
 Do not miss these involved visitors because they are your main target! Once they visited your web site, the service looks for a convenient moment to organize a free call
 
 
-<h1>Video</h1>
-
-http://www.youtube.com/watch?t=1&v=7_jpOTP_s2s
 
 
 == Installation ==
