@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: casepress
-Tags: callbackhunter, callback
+Tags: callbackhunter, callback, feedback, contact, form, contact form, chat, livechat
 Requires at least: 3.0.1
 Tested up to: 4.3
 Stable tag: 4.3
@@ -8,15 +8,38 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 The conversion of the site and landing pages up to 50%.
-Integrate CallBack widget by CallBackHunter in WordPress
+Integrate CallBack widget by CallBackHunter in WordPress. And livechat, feedback form.
 
 == Description ==
 
-Integrate CallBack widget <a href="http://callbackhunter.us/systemo" target="_blank">callbackhunter.us</a> on site WordPress
+Integrate CallBack widget <a href="http://callbackhunter.us/systemo" target="_blank">callbackhunter.us</a> on site WordPress.
+
+This is the new standard of communication between you and your clients. It's hard to say how great it works. Press the blue button to your right and feel it for yourself.
+
+Already 57477 websites receive 125% more payed bills and calls. 
+
+<h1>Features</h1>
+<h2>The widget analyzes the visitor’s behavior and doesn’t disturb your actual clients.</h1>
+The service is trained on big data. It analyzes mouse movement and acceleration, scrolling, time, and pages looked through.
+
+It can separate those who are visiting your site for the first time from those who visit it daily.
+
+The service does not bother those 1-2% of visitors that have already placed an order on your site, bought an item or clicked the "Contact Us" section because they are already involved customers
+
+<h2>The service doesn’t also disturb visitors that show low involvement in your site</h2>
+These are 75% of visitors to your site. They are occasional guests who quickly scroll through the site, almost do not read the texts and leave quickly.
+
+Why should you keep them? They are no use to sales so why calling them. They would just waste your time and overload the sales managers.
+<h2>But once the service detects a ready-to-buy visitor, it prepares to jump</h2>
+These are 23% of visitors. They visited your site and stayed there for a while going through it attentively. They read the contents of your site, scrolled through them slowly, and visited various sections of your site.
+
+Do not miss these involved visitors because they are your main target! Once they visited your web site, the service looks for a convenient moment to organize a free call
+
 
 <h1>Video</h1>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7_jpOTP_s2s" frameborder="0" allowfullscreen></iframe>
+http://www.youtube.com/watch?t=1&v=7_jpOTP_s2s
+
 
 == Installation ==
 
