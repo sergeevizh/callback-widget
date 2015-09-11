@@ -28,8 +28,11 @@ e.g.
 
 == Screenshots ==
 
-1. /inc/screenshot-1.png - shows plugin settings.
-2. /inc/screenshot-2.png - shows one of buttons positions.
+1. Settings page.
+2. Example 1
+3. Example 2.
+4. Example 3.
+5. Example 4.
 
 
 == Changelog ==
