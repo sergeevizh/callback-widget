@@ -16,8 +16,7 @@ Integrate CallBack widget <a href="http://callbackhunter.us/systemo" target="_bl
 
 <h1>Video</h1>
 
-https://youtu.be/7_jpOTP_s2s
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7_jpOTP_s2s" frameborder="0" allowfullscreen></iframe>
 
 == Installation ==
 
