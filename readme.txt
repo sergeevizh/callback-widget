@@ -7,7 +7,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Integrate CallBack widget <a href="http://callbackhunter.com/systemo" target="_blank">CallBackHunter.com</a> on site WordPress
+Integrate CallBack widget <a href="http://callbackhunter.us/systemo" target="_blank">CallBackHunter.us</a> on site WordPress
 
 == Description ==
 
